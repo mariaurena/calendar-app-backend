@@ -1,0 +1,11 @@
+Paquetes instalados en esta sección.
+
+---> nodemon: cada vez que guardamos se ejecuta node index.js automáticamente (configuramos scripts en package.json)
+---> dotenv : para poder manejar las variables de entorno
+---> express-validator: para las validaciones antes de enviar respuestas haciendo peticiones post/get/delete...
+---> mongoose: escribir consultas para la bd de mongo
+---> bcryptjs: libreria para encriptar las contraseñas
+---> jsonwebtoken: generar tokens de seguridad 
+---> cors: filtrar quién puede acceder a nuestra API
+---> moment: para saber si una fecha es correcta o no
+---> axios: realizar solicitudes HTTP desde el servidor usando Node
